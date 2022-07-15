@@ -1,0 +1,18 @@
+.message {
+  margin: 5px ;
+  width: fit-content;
+}
+.message-user {
+   
+  margin-left: auto;
+  background-color: rgb(96, 144, 247);
+  text-align: left !important;
+}
+.message-usercard{
+    
+    background-color: #0b81ff !important;
+}
+.message-questcard{
+    
+    background-color: white !important;
+}
